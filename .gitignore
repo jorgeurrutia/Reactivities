@@ -8,6 +8,10 @@
 
 appsettings.json
 
+# Ignore execution db files
+*.db-shm
+*.db-wal
+
 # User-specific files
 *.rsuser
 *.suo
