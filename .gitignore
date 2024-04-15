@@ -6,7 +6,7 @@
 # dotenv files
 .env
 
-appsettings.json
+# appsettings.json
 
 # Ignore execution db files
 *.db-shm
